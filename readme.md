@@ -15,6 +15,11 @@ Cuci Sepatu is a website that provides shoe washing services for the community. 
 - PHP
 - JS
 
+#### Frameworks and Library
+
+- Codeigniter 3
+- Jquery
+- Bootstrap v4.0.0
+- etc
+
 ---
-
-
